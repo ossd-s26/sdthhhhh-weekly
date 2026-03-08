@@ -20,3 +20,4 @@ Replace the first row with your own contribution.
 | Mar 8 | https://zh.wikipedia.org/wiki/Special:Contributions/Sdthhhhh | Wikipedia edit | I added the 2026 "All of You" showcase event to the RIIZE Wikipedia page. |
 | Mar 8 | https://zh.wikipedia.org/wiki/Special:Contributions/Sdthhhhh | Wikipedia edit | I updated the showcase table and formatted the new 2026 section correctly. |
 | Mar 8 | https://zh.wikipedia.org/wiki/Special:Contributions/Sdthhhhh | Wikipedia edit | I added event details and a reference source for the showcase event. |
+| Mar 8 | https://www.openstreetmap.org/user/sdthhhhh/history | OpenStreetMap feature | I updated the map by adding and editing information about my residential community in China. |
