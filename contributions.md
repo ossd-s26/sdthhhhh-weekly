@@ -22,3 +22,4 @@ Replace the first row with your own contribution.
 | Mar 8 | https://zh.wikipedia.org/wiki/Special:Contributions/Sdthhhhh | Wikipedia edit | I added event details and a reference source for the showcase event. |
 | Mar 8 | https://www.openstreetmap.org/user/sdthhhhh/history | OpenStreetMap feature | I updated the map by adding and editing information about my residential community in China. |
 | Mar 14 | https://github.com/BUGS-NYU/nyu-cs-wiki/pull/131 | NYU CS Wiki | I checked a PR and request the NYU CS Wiki to check. |
+| Mar 14 | https://github.com/BUGS-NYU/nyu-cs-wiki/issues/132 | NYU CS Wiki | I opened an issue about the lack of some locations for Treat Yourself part. |
