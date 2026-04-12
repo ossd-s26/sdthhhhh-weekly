@@ -23,3 +23,5 @@ Replace the first row with your own contribution.
 | Mar 8 | https://www.openstreetmap.org/user/sdthhhhh/history | OpenStreetMap feature | I updated the map by adding and editing information about my residential community in China. |
 | Mar 14 | https://github.com/BUGS-NYU/nyu-cs-wiki/pull/131 | NYU CS Wiki | I checked a PR and request the NYU CS Wiki to check. |
 | Mar 14 | https://github.com/BUGS-NYU/nyu-cs-wiki/issues/132 | NYU CS Wiki | I opened an issue about the lack of some locations for Treat Yourself part. |
+| Apr 11 | https://github.com/BUGS-NYU/nyu-cs-wiki/pull/131 | NYU CS Wiki | PR successfully got closed. |
+| Apr 11 | https://github.com/BUGS-NYU/nyu-cs-wiki/pull/134 | NYU CS Wiki | I opened a PR to add missing locations and include additional information in the “Treat Yourself” section. |
